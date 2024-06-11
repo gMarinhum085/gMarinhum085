@@ -15,7 +15,7 @@
 
 ## HOBBIES
   * Praticar Esportes 
-  * Jogar videogame
+  * Jogar videogame 🎮
   * Ouvir músicas
   * Ler
 
