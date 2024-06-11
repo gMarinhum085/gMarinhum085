@@ -48,11 +48,10 @@
 </table>
 
 ## HOBBIES
-  * Praticar Esportes (diversos)
-  * Criar designs
+  * Praticar Esportes 
+  * Jogar videogame
   * Ouvir músicas
-  * Cantar
-  * Escrever
+  * Ler
 
 ## REDES SOCIAIS
  <div style="display:inline_block">
