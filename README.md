@@ -1,4 +1,4 @@
-## Opa tudo bem? Me chamo Gabriel Marinho dos San 👋
+## Opa tudo bem? Me chamo Gabriel Marinho dos Santos 👋
 
 
 
