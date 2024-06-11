@@ -1,51 +1,17 @@
 # Olá, eu me chamo Gabriel Marinho!
 
-# EXPERIÊNCIAS...
-
-<table border="2">
-
-  <tr>
-    <th>Linguagens utilizadas</th>
-    <th>IDE's</th>
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </td> 
-    <td>
-      <img align="center" alt="Gabriel-vscode" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-    </td>   
-  </tr>
+## EXPERIÊNCIAS...
+<br>
+<div>
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
+  <img align="center" alt="Python" height="45" width="55" src="https://i.imgur.com/w6HYuAI.png"> 
+  <img align="center" alt="SASS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+          
   
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </td> 
-    <td>
-      <img align="center" alt="Gabriel-Pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-Python" height="35" width="35" src="https://i.imgur.com/w6HYuAI.png">
-    </td> 
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </td> 
-  </tr>
-
-  <tr>
-    <td>
-      <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    </td> 
-  </tr>
-  
-</table>
+</div>
+<br>
 
 ## HOBBIES
   * Praticar Esportes 
