@@ -41,44 +41,44 @@
   <td>PLANEJAMENTO DE CARREIRA ✔</td>
   </tr>
   <tr>
-  <td>PROGRAMAÇÃO WEB 🔄</td>
+  <td>PROGRAMAÇÃO WEB ✔</td>
   </tr>
   <tr>
-  <td>GESTÃO DE STARTUPS 1 🔄</td>
+  <td>GESTÃO DE STARTUPS 1 ✔</td>
   </tr>
   <tr>
-  <td>ANÁLISE E PROJETO DE SISTEMAS 🔄</td>
+  <td>ANÁLISE E PROJETO DE SISTEMAS ✔</td>
   </tr>
   <tr>
-  <td>DESIGN DE INTERFACE E USABILIDADE 🔄</td>
-  </tr>
-
-  <tr>
-  <td>BANCO DE DADOS 🔄</td>
+  <td>DESIGN DE INTERFACE E USABILIDADE ✔</td>
   </tr>
 
   <tr>
-  <td>SISTEMAS EMBARCADOS ✘</td>
+  <td>BANCO DE DADOS ✔</td>
   </tr>
 
   <tr>
-  <td>GESTÃO DE STARTUPS 2 ✘</td>
+  <td>SISTEMAS EMBARCADOS 🔄</td>
   </tr>
 
   <tr>
-  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS ✘</td>
+  <td>GESTÃO DE STARTUPS 2 🔄</td>
   </tr>
 
   <tr>
-  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO ✘</td>
+  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS 🔄</td>
   </tr>
 
   <tr>
-  <td>REDE DE COMPUTADORES ✘</td>
+  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO 🔄</td>
   </tr>
 
   <tr>
-  <td>INGLÊS TÉCNICO ✘</td>
+  <td>REDE DE COMPUTADORES 🔄</td>
+  </tr>
+
+  <tr>
+  <td>INGLÊS TÉCNICO 🔄</td>
   </tr>
 
   <tr>
